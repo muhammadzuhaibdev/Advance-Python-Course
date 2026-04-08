@@ -2,9 +2,9 @@
 
 ## Operators
 Types of operators
+- Assignment Operators
 - Arithmetic Operators
 - Comparison (Relational) Operators
-- Assignment Operators
 - Logical Operators
 - Membership Operators
 - Identity Operators

@@ -16,19 +16,6 @@ print(names)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # userName = "Zuhaib"
 
 # print(len(userNames))
